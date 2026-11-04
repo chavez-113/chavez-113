@@ -17,6 +17,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: "main"
           UTC_OFFSET: -6
           THEME: "2077"
+          AUTO_PUSH: false
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update profile summary cards"
+          file_pattern: "profile-summary-card-output/**"
