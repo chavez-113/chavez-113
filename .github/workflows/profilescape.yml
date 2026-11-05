@@ -1,0 +1,15 @@
+name: Profilescape
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: chethandvg/profilescape-languages@v1
+        with:
+          token: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+          readme: README.md
