@@ -9,14 +9,7 @@
 <!--
 about me
 div para el texto describiendome a mi y que hago
-
-
 -->
-
-![Stats](./profile-summary-card-output/2077/3-stats.svg?v=3)  [![GitHub Streak](https://streak-stats.demolab.com/?user=chavez-113&theme=dark)](https://git.io/streak-stats)
-
-![Stats](./profile-summary-card-output/2077/2-most-commit-language.svg?v=3)
-![Stats](./profile-summary-card-output/2077/4-productive-time.svg?v=3)
 
 </div>
 
