@@ -2,10 +2,10 @@
 
 ![Stats](./profile-summary-card-output/2077/3-stats.svg?v=3)  [![GitHub Streak](https://streak-stats.demolab.com/?user=chavez-113&theme=dark)](https://git.io/streak-stats)
 
-![Stats](./profile-summary-card-output/2077/3-stats.svg?v=1)
-![Stats](./profile-summary-card-output/2077/3-stats.svg?v=2)
-![Stats](./profile-summary-card-output/2077/3-stats.svg?v=4)
-![Stats](./profile-summary-card-output/2077/3-stats.svg?v=5)
+![Stats](./profile-summary-card-output/2077/0-profile-details.svg?v=3)
+![Stats](./profile-summary-card-output/2077/1-repos-per-lenguage.svg?v=3)
+![Stats](./profile-summary-card-output/2077/2-most-commit-lenguage.svg?v=3)
+![Stats](./profile-summary-card-output/2077/4-productive-time.svg?v=3)
 
 <div align="center">
 
