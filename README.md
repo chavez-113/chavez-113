@@ -2,13 +2,13 @@
 
 # Samuel Morales
 
-**Fullstack Developer** · Angular · React · .NET · SQL Server
 </div>
 
 
 Fullstack developer, currently building admin and web apps at work place, working with technologies like react, angular, .net (framework and core) and integrating business tools like SAP B1 
 - <img src="https://api.iconify.design/mdi/sprout.svg?color=%2338BDF8" height="15" align="center" /> &nbsp; Learning Go and IA tools to implement and be more efficient in my workflow
 - <img src="https://api.iconify.design/mdi/telescope.svg?color=%2338BDF8" height="15" align="center" /> &nbsp; in search of new challenges for my development
+
 
 <div align="center>
   
@@ -17,7 +17,6 @@ Fullstack developer, currently building admin and web apps at work place, workin
   <a href="mailto:snmch13@gmail.com"><img src="https://img.shields.io/badge/Email-121011?style=for-the-badge" alt="Email" /></a>
   <!-- <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF0055?style=for-the-badge" alt="Portfolio" /></a> -->
 </p>
-
  
 </div>
 
