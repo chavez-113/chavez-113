@@ -11,6 +11,7 @@ Fullstack developer, currently building admin and web apps at work place, workin
 - <img src="https://api.iconify.design/mdi/telescope.svg?color=%2338BDF8" height="15" align="center" /> &nbsp; in search of new challenges for my development
 
 <div align="center>
+  
 <p align="center">
   <a href="https://www.linkedin.com/in/samuel-morales-320048387/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:snmch13@gmail.com"><img src="https://img.shields.io/badge/Email-121011?style=for-the-badge" alt="Email" /></a>
