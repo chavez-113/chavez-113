@@ -19,10 +19,7 @@ div para el texto describiendome a mi y que hago
 ![Stats](./profile-summary-card-output/2077/4-productive-time.svg?v=3)
 
 </div>
-<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=chavez-113&style=for-the-badge&color=ff0055&label=VISITAS" alt="Visitas" />
-</div>
 
 <!-- profilescape:start -->
 
@@ -32,7 +29,10 @@ div para el texto describiendome a mi y que hago
 </picture>
 
 <!-- profilescape:end -->
-
+<div align="center">
+---
+<img src="https://komarev.com/ghpvc/?username=chavez-113&style=for-the-badge&color=ff0055&label=VISITAS" alt="Visitas" />
+</div>
 
 
 <!-- START gadpp -->
