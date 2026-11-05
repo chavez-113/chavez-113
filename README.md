@@ -1,9 +1,10 @@
-# Samuel Morales
 <div align="center">
-**Fullstack Developer** · Angular · React · .NET
-</div>
 
-<div>
+# Samuel Morales
+
+**Fullstack Developer** · Angular · React · .NET
+
+</div>
 
 <!--
 about me
