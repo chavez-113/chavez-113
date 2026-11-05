@@ -32,7 +32,5 @@ div para el texto describiendome a mi y que hago
 <!-- profilescape:end -->
 
 
-![Top languages](./profile/top-langs.svg?v=1)
-
 
 <!-- START gadpp -->
