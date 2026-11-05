@@ -13,12 +13,6 @@
 </div>
 
  
-## About me
- 
-<div align="center">
-<!-- pendiente a redactar -->
-🔨 Building...
-</div>
 
  
 ## Stack
