@@ -22,8 +22,11 @@ div para el texto describiendome a mi y que hago
 <img src="https://komarev.com/ghpvc/?username=chavez-113&style=for-the-badge&color=ff0055&label=VISITAS" alt="Visitas" />
 </div>
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
+<div align="center">
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" />
+</div>
 <!-- START gadpp -->
