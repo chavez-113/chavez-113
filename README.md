@@ -31,11 +31,12 @@
  
 ## GitHub Stats
  
-<p align="center">
- <img src="./profile-summary-card-output/2077/3-stats.svg?v=3" height="165" alt="Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center"> 
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=chavez-113&theme=dark" height="165" alt="GitHub Streak" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./profile-summary-card-output/2077/3-stats.svg?v=3" height="165" alt="Stats" />
 </p>
 <!-- profilescape:start -->
  
