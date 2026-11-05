@@ -12,7 +12,11 @@
 
 </div>
 
- 
+---
+
+Fullstack developer, currently building admin and web apps at work place, working with technologies like react, angular, .net (framework and core) and integrating business tools like SAP B1 
+- <img src="https://api.iconify.design/mdi/sprout.svg?color=%2338BDF8" height="15" align="center" /> &nbsp; Learning Go and IA tools to implement and be more efficient in my workflow
+- <img src="https://api.iconify.design/mdi/telescope.svg?color=%2338BDF8" height="15" align="center" /> &nbsp; in search of new challenges for my development
 
  
 ## Stack
