@@ -7,6 +7,7 @@
 
 <img src="https://count.getloli.com/@chavez-113?theme=3d-num" alt="Visitas" />
 
+<img src="https://komarev.com/ghpvc/?username=chavez-113&style=for-the-badge&color=ff0055&label=VISITAS" alt="Visitas" />
 </div>
 
 <!-- START gadpp -->
