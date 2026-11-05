@@ -17,7 +17,7 @@
  
 <div align="center">
 <!-- pendiente a redactar -->
- 
+🔨 Building...
 </div>
 
  
@@ -25,7 +25,7 @@
  
 <div align="center">
 <!-- (fuente pendiente de decidir) -->
- 
+ 🔨 Building...
 </div>
 
  
