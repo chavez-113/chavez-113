@@ -29,8 +29,8 @@ div para el texto describiendome a mi y que hago
 </picture>
 
 <!-- profilescape:end -->
-<div align="center">
 ---
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=chavez-113&style=for-the-badge&color=ff0055&label=VISITAS" alt="Visitas" />
 </div>
 
