@@ -1,16 +1,17 @@
 <div align="center">
+
 # Samuel Morales
- 
+
 **Fullstack Developer** · Angular · React · .NET · SQL Server
- 
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuel-morales-320048387/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:snmch13@gmail.com"><img src="https://img.shields.io/badge/Email-121011?style=for-the-badge" alt="Email" /></a>
+  <!-- <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF0055?style=for-the-badge" alt="Portfolio" /></a> -->
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/samuel-morales-320048387/)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF0055?style=for-the-badge)](#) -->
-[![Email](https://img.shields.io/badge/Email-121011?style=for-the-badge)](snmch13@gmail.com)
- 
 </div>
----
+
  
 ## About me
  
@@ -18,7 +19,7 @@
 <!-- pendiente a redactar -->
  
 </div>
----
+
  
 ## Stack
  
@@ -26,16 +27,16 @@
 <!-- (fuente pendiente de decidir) -->
  
 </div>
----
+
  
 ## GitHub Stats
  
 <p align="center">
-  <img src="./profile-summary-card-output/2077/3-stats.svg?v=3" height="165" alt="Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=chavez-113&theme=dark" height="165" alt="GitHub Streak" />
-  </a>
+ <img align="left" src="./profile-summary-card-output/2077/3-stats.svg?v=3" height="165" alt="Stats" />
+<a href="https://git.io/streak-stats">
+  <img align="right" src="https://streak-stats.demolab.com/?user=chavez-113&theme=dark" height="165" alt="GitHub Streak" />
+</a>
+<br clear="all" />
 </p>
 <!-- profilescape:start -->
  
