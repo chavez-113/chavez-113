@@ -1,5 +1,6 @@
 <div align="center">
 # Samuel Morales
+**Fullstack Developer** · Angular · React · .NET
 </div>
 
 <div>
