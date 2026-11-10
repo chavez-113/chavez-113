@@ -2,7 +2,7 @@
 
 # Samuel Morales
 
-</div>
+</div> 
 
 
 Fullstack developer, currently building admin and web apps at work place, working with technologies like react, angular, .net (framework and core) and integrating business tools like SAP B1 
